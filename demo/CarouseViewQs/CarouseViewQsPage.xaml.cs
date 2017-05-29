@@ -13,8 +13,6 @@ namespace CarouseViewQs
 
             carousel = new CarouselView();
 
-            Content = carousel;
-
             carousel.ItemSource = new Color[] { 
                 Color.Red,
                 Color.Blue,
@@ -24,7 +22,10 @@ namespace CarouseViewQs
             };
 
             carousel.ItemTemlate = new DataTemplate(typeof(CarouselViewCell));
-        }
+
+			Content = carousel;
+
+		}
     }
 
     class CarouselViewCell : ViewCell {
