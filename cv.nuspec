@@ -8,13 +8,14 @@
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <title>Naxam - Square Okio</title>
+        <title>Naxam - CarouselView for Xamarin.Forms</title>
         <releaseNotes>CarouselView 0.0.1/Android only</releaseNotes>
         <summary>Xamarin Forms Control - CarouselView</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
         <projectUrl>https://github.com/NAXAM/carousel-xamarin-forms</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
-        <tags>Xamarin.Forms, carousel, carousel-view</tags>
+        <tags>xamarin, Xamarin.Forms, carousel, carousel-view</tags>
         <dependencies>
             <group>
                 <dependency id="Xamarin.Forms" version="2.3.4.247" />
