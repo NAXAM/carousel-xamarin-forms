@@ -37,5 +37,5 @@ carousel.ItemTemlate = new DataTemplate(typeof(CarouselViewCell));
 
 ## License
 
-TopTabbedPage is released under the Apache License license.
+CarouselView is released under the Apache License license.
 See [LICENSE](./LICENSE) for details.
